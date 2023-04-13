@@ -2,6 +2,10 @@ h1 {
     color: white;
     font-family: monospace, monaco;
 }
+h2 {
+    color: white;
+    font-family: monospace, monaco;
+}
 body {
     background-color: pink;
     margin: auto;
